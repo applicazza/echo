@@ -1,0 +1,22 @@
+{
+  "name": "laravel-echo-bower",
+  "description": "Laravel Echo library for beautiful Pusher and Socket.IO integration",
+  "main": "dist/echo.js",
+  "authors": [
+    "Taylor Otwell"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "laravel",
+    "pusher",
+    "socket.io"
+  ],
+  "homepage": "https://github.com/laravel/echo",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
